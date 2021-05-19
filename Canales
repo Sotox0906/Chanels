@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,Television Costa Rica
 https://iptv-org.github.io/iptv/countries/cr.m3u
-
 #EXTINF:-1 ,Varios
 https://iptv-org.github.io/iptv/index.category.m3u
-
-EXTINF:-1 ,Japones
-https://iptv-org.github.io/iptv/languages/ja.m3u
